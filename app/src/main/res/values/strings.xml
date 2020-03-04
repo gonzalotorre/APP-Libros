@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LibrosFirebase</string>
+    <string name="titulo">Título:</string>
+    <string name="autor">Autor:</string>
+    <string name="editorial">Editorial:</string>
+    <string name="categorias">Categorias:</string>
+    <string name="paginas">Páginas:</string>
+    <string name="top">Top 3</string>
+    <string name="top3">Top 3:</string>
+    <string name="aniadir">Añadir Libro</string>
+    <string name="borrar">Borrar libro</string>
+    <string name="modificar">Modificar libro</string>
+    <string name="librosAutor">Primer libro ALFAGUARA</string>
+    <string name="librosPaginas">Libro más páginas</string>
+</resources>
